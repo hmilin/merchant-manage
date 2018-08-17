@@ -1,0 +1,9 @@
+.header{
+  height: 30px;
+  line-height:30px;
+  background-color: #fff;
+}
+
+.exit{
+  cursor: pointer;
+}

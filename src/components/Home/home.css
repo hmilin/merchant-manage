@@ -1,0 +1,27 @@
+#home {
+  background: #fff;
+  padding: 20px;
+}
+#mountNode {
+  background:#fff;
+  padding: 20px;
+  text-align: center;
+}
+.chart {
+  text-align: center;
+}
+#container-top,#container-bottom {
+  margin-left:200px;
+  height: 60px;
+}
+#container-top div,#container-bottom div {
+  align-content: center;
+  float:left;
+  margin-right: 40px;
+  font-size: 24px;
+  background: #d7d7d7;
+  border: 1px solid #d7d7d7;
+  opacity: 0.6;
+  border-radius: 3%;
+  padding: 5px 5px 5px 5px;
+}
